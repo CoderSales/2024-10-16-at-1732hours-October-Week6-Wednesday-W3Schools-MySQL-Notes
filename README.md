@@ -17,6 +17,7 @@
 
 ![image](https://github.com/user-attachments/assets/85048e95-e995-4a85-a168-1fd6e6946c28)
 
+![MySQL ANY and ALL Operators - Google Chrome 16_10_2024 18_14_41](https://github.com/user-attachments/assets/6ea87ea5-1229-4c51-99be-0bd8485c43fd)
+
 ### ALL Examples
 
-![MySQL ANY and ALL Operators - Google Chrome 16_10_2024 18_14_41](https://github.com/user-attachments/assets/6ea87ea5-1229-4c51-99be-0bd8485c43fd)
